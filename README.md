@@ -41,5 +41,4 @@ This project helped me practice:
 - building interactive applications in Unity
 
 ## Demo
-
-Add gameplay screenshots, GIFs, or a video link here.
+https://drive.google.com/file/d/1SXjlK78WnvyaZiZ2xTLunHzPMweMZF77/view
