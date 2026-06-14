@@ -41,4 +41,4 @@ This project helped me practice:
 - building interactive applications in Unity
 
 ## Demo
-https://drive.google.com/file/d/1UYZSZZCM1G6NTLhSyN-WADLWiS_IZeIU/view?usp=sharing
+https://drive.google.com/file/d/1j6xms5dWYjaIECxlW-_b0ScMkAcJR9cv/view?usp=share_link
